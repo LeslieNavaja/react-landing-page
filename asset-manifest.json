@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-landing-page/static/css/main.f3bed5b6.css",
+    "main.js": "/react-landing-page/static/js/main.8132f114.js",
+    "static/media/remixicon.svg?t=1718271040674": "/react-landing-page/static/media/remixicon.f38690bdde29bddbc211.svg",
+    "static/media/remixicon.eot?t=1718271040674": "/react-landing-page/static/media/remixicon.d87042cf9a3f67d1cab2.eot",
+    "static/media/remixicon.ttf?t=1718271040674": "/react-landing-page/static/media/remixicon.88da6179288d7835c2f0.ttf",
+    "static/media/remixicon.woff?t=1718271040674": "/react-landing-page/static/media/remixicon.1bdc36c90398c9d667d1.woff",
+    "static/media/remixicon.woff2?t=1718271040674": "/react-landing-page/static/media/remixicon.8aece9ab0de67b79cfda.woff2",
+    "static/media/hero-bg3.png": "/react-landing-page/static/media/hero-bg3.3d42ed965227c2508121.png",
+    "index.html": "/react-landing-page/index.html",
+    "main.f3bed5b6.css.map": "/react-landing-page/static/css/main.f3bed5b6.css.map",
+    "main.8132f114.js.map": "/react-landing-page/static/js/main.8132f114.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3bed5b6.css",
+    "static/js/main.8132f114.js"
+  ]
+}
